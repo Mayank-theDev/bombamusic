@@ -1,4 +1,4 @@
-exports.TOKEN = 'NzMwMzA3OTU3MDgxNzY4MDM3.XwVmSQ.zAg464n4QebV4ce1pYIqCwDfTfk';
+exports.TOKEN = '';
 
 exports.DBL_API_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjczMDMwNzk1NzA4MTc2ODAzNyIsImJvdCI6dHJ1ZSwiaWF0IjoxNjAzNTIzNTMwfQ.IplnB1HlZ8Pav-REr4yXesOsuFvvGoeaWeS-QpO_dyw';
 
